@@ -18,7 +18,7 @@ int c1 = 0, c2 = 0, c3 = 0, c4 = 0;
  
 double total = 0;
 int count_prod = 0;
- 
+
 int led1 = D5;
 int led2 = D7;
 int buzzer = D6;
